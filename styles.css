@@ -16,6 +16,23 @@
 
 }
 
+.test{
+    margin-left: 750px;
+}
+#MEGA{
+    margin-top: 70px;
+    float: left;
+    font-weight: bold;
+    font-size: 40px;
+}
+#MIXER{
+    float: right;
+    margin-top: 70px;
+    margin-right: 710px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
 .textCenter {
 
     text-align: center;

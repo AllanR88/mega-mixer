@@ -4,14 +4,29 @@
     margin: 0px;
     padding: 0px;
 }
-.mixer {
 
-    font-size:
-}
 
-.col-size {
+.yellow {
+
+    position: absolute;
+    margin-top: -5px;
     width: 100%;
-    padding: 20% 0 0 0 !important;
+    padding: 0 0 0 0;
     background: orange;
 
+}
+
+.textCenter{
+
+    text-align: center;
+    font-weight: 2900;
+}
+
+.black{
+
+    position: absolute;
+    margin-top: -5px;
+    width: 100%
+    padding: 0 0 0 0;
+    background: black;
 }

@@ -4,4 +4,14 @@
     margin: 0px;
     padding: 0px;
 }
-/* A vous de faire votre propre feuille de styles en dessous !! */
+.mixer {
+
+    font-size:
+}
+
+.col-size {
+    width: 100%;
+    padding: 20% 0 0 0 !important;
+    background: orange;
+
+}

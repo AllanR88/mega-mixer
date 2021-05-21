@@ -16,17 +16,17 @@
 
 }
 
-.textCenter{
+.textCenter {
 
     text-align: center;
     font-weight: 2900;
 }
-
-.black{
-
+.black {
     position: absolute;
-    margin-top: -5px;
-    width: 100%
+    margin-top: -200px
+    width: 100%;
     padding: 0 0 0 0;
     background: black;
+    text-align: center;
+
 }

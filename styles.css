@@ -17,13 +17,32 @@
     padding-top: 20px;
 }
 .boutonPlacer {
-    text-align: center
+
+    text-align: center;
+
+
 }
 
 .BoutonInitialiser {
 
+    height:20px;
+    width:100px;
+    margin: -20px -50px;
+    position:relative;
+    top:50%;
+    left:58%;
+
 
 }
 
+.select {
+
+    height: 20px;
+    width: 100px;
+    margin: -20px -50px;
+    position: relative;
+    top:50%;
+    right: -45%;
+}
 
 

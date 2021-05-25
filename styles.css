@@ -1,85 +1,29 @@
+
 .body-all {
     font-family: 'Varela Round', sans-serif;
     background-color: #E8E6E6;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
-.orange {
-    position: absolute ;
-    margin-top: -5px;
-    width: 100%;
-    padding: 0 0 0 0;
-    background: orange;
-}
-.mixers{
-    margin-left: 750px;
-
-}
-.blackCare {
-    position: absolute;
-    margin-top: 200px;
-    width: 100%;
-    padding: 0 0 0 0;
-    background: #000000;
+.CarreOrange {
     text-align: center;
+    background-color: orangered;
+    font-weight: normal;
+    font-size: 100px;
 }
-#MEGA{
-    margin-top: 70px;
-    float: left;
-    margin-left: -50px;
-    font-weight: bold;
-    font-size: 40px;
+
+.black {
+    background-color: black;
+    padding-top: 20px;
 }
-#MIXER{
-    float: right;
-    margin-top: 70px;
-    margin-right: 760px;
-    font-weight: bold;
-    font-size: 40px;
+.boutonPlacer {
+    text-align: center
 }
-.buttonSelect{
-    display: inline-block;
-    background-color: #f1b82b;
-    border-radius: 10px;
-    border: 4px double #cccccc;
-    color: #eeeeee;
-    font-size: 28px;
-    padding: 20px;
-    width: 100px;
-    cursor: pointer;
-    margin-left: 399px;
-    margin-top: 50px;
-    float: left;
+
+.BoutonInitialiser {
+
 
 }
-.buttonPlacer{
-    display: inline-block;
-    background-color: #f1b82b;
-    border-radius: 10px;
-    border: 4px double #cccccc;
-    color: #eeeeee;
-    font-size: 28px;
-    padding: 20px;
-    width: 100px;
-    cursor: pointer;
-    margin-left: -400px;
-    float: left;
-    margin-top: 15px;
-    position: absolute;
-}
-.BoutonInitialisers{
-    display: inline-block;
-    background-color: #f1b82b;
-    border-radius: 10px;
-    border: 4px double #cccccc;
-    color: #eeeeee;
-    font-size: 28px;
-    padding: 20px;
-    width: 100px;
-    cursor: pointer;
-    margin-left: 100px;
-    float: left;
-    margin-top: 15px;
-    position: absolute;
-}
+
+
 

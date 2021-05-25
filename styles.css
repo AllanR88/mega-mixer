@@ -18,31 +18,49 @@
 }
 .boutonPlacer {
 
+    background-color: orangered;
+    border: none;
+    color: #000000;
+    padding: 15px 32px;
     text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
 
 
 }
 
 .BoutonInitialiser {
 
-    height:20px;
-    width:100px;
-    margin: -20px -50px;
-    position:relative;
-    top:50%;
-    left:58%;
+    background-color: orangered;
+    border: black;
+    color: #000000;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
 
 
 }
 
+.buttonselect {
+
+    background-color: orangered;
+    border: none;
+    color: #000000;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
 .liste {
 
-    height: 20px;
-    width: 100px;
-    margin: -20px -50px;
-    position: relative;
-    top:50%;
-    right: -45%;
+    display: inline-block;
 }
 
 
